@@ -1,8 +1,8 @@
-<h2 align="left"> **Olá, i'am Michele Alves** <br> </h2> 
+<h2 align="left"> Olá! <br> </h2> 
 
 <br>
 
-🔭 I’m currently programmer beginner, learning Python
+🔭 I'am Michele currently programmer beginner, learning Python
 
   <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runmichele&theme=tokyonight"/> 
