@@ -39,8 +39,8 @@ I am seeking challenging opportunities where I can positively impact the world, 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Badges</title>
-  <style>
+<!--   <title>Badges</title> -->
+<!--   <style>
     .badges {
       display: flex;
       flex-wrap: wrap;
@@ -49,7 +49,7 @@ I am seeking challenging opportunities where I can positively impact the world, 
     .badges a {
       text-decoration: none;
     }
-  </style>
+  </style> -->
 </head>
 <body>
   <!-- Seção dos badges -->
