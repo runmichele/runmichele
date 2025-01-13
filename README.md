@@ -7,7 +7,9 @@ I'am Michele, Information Security Analyst, explorer of possibilities, creative,
 My story began outside the tech world, in journalism, where I learned the importance of clear communication, critical thinking, and the positive impact we can create through information. Over time, my desire to build something meaningful and transformative led me to the field of technology, where I discovered new ways to contribute to the world.
 
 <b> Experience and Purpose: </b>
+
 <br>
+
 <b> Information Security: </b> I have experience in security awareness, training campaigns, and data analysis in phishing initiatives, helping individuals and organizations protect themselves in an increasingly challenging digital landscape.
 <br>
 <b> Continuous Evolution: </b> Today, my focus is on learning and growing further, exploring the intersection of data analysis and programming, with the goal of creating solutions that combine technology and positive impact.
