@@ -23,7 +23,7 @@ I am seeking challenging opportunities where I can positively impact the world, 
   
 <div>
   
-  <h3><b> So far my skills include: </b> 💻🫠: </h3>
+  <h3><b>💻 So far my skills include: </b> </h3>
   <img align="center" alt="Michele-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Michele-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Michele-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -37,10 +37,6 @@ I am seeking challenging opportunities where I can positively impact the world, 
   <!--CONTATOS -->
         <a href="https://https://www.linkedin.com/in/michele-alves-244456165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href = "mailto:michelemmono@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.instagram.com/runmichele/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-        </a>
     <!-- Pandas -->
         <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" />
