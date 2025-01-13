@@ -1,8 +1,18 @@
-<h2 align="left"> Olá! <br> </h2> 
+<h2 align="left"> Olá!👋 <br> </h2> 
 
 <br>
 
-🔭 I'am Michele currently programmer beginner, learning Python
+I'am Michele, Information Security Analyst, explorer of possibilities, creative, multidisciplinary, and deeply concerned about my impact on the world and the environment. My journey has been marked by curiosity, resilience, and a constant desire for reinvention.
+
+My story began outside the tech world, in journalism, where I learned the importance of clear communication, critical thinking, and the positive impact we can create through information. Over time, my desire to build something meaningful and transformative led me to the field of technology, where I discovered new ways to contribute to the world.
+
+Experience and Purpose:
+Information Security: I have experience in security awareness, training campaigns, and data analysis in phishing initiatives, helping individuals and organizations protect themselves in an increasingly challenging digital landscape.
+Continuous Evolution: Today, my focus is on learning and growing further, exploring the intersection of data analysis and programming, with the goal of creating solutions that combine technology and positive impact.
+Positive Impact: My objective is to make a positive impact on people and the environment through technology, leveraging my skills to solve problems creatively and efficiently.
+I am seeking challenging opportunities where I can positively impact the world, whether by coding or analyzing complex solutions. I believe that technology, paired with a clear purpose, is a powerful tool to transform lives.
+
+currently programmer beginner, learning Python
 
   <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runmichele&theme=tokyonight"/> 
