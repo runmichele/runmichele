@@ -45,6 +45,7 @@ I am seeking challenging opportunities where I can positively impact the world, 
       <!-- Power BI -->
         <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Power%20BI
+          <a>
           <!-- Microsoft Azure -->
         <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <div>
