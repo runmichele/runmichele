@@ -43,11 +43,14 @@ I am seeking challenging opportunities where I can positively impact the world, 
         <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
         </a>
       <!-- Power BI -->
-        <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Power%20BI
-          <a>
-          <!-- Microsoft Azure -->
-        <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+</a>
+
+<!-- Microsoft Azure -->
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</a>
     <div>
         <!-- Microsoft Office -->
         <a href="#" target="_blank">
