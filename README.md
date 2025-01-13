@@ -47,35 +47,48 @@ I am seeking challenging opportunities where I can positively impact the world, 
 </style>
 
 <!-- Seção dos badges -->
-<div class="badges">
-  <!-- Pandas -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
-  <!-- SQL -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <!-- Power BI -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-  </a>
-  <!-- Microsoft Azure -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-  </a>
-  <!-- Microsoft Office -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  </a>
-  <!-- Jira -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  </a>
-  <!-- Visual Studio Code -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-</div>
-
-  
+<head>
+  <style>
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px; /* Espaçamento entre os badges */
+    }
+    .badges a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <!-- Seção dos badges -->
+  <div class="badges">
+    <!-- Pandas -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    </a>
+    <!-- SQL -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <!-- Power BI -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+    </a>
+    <!-- Microsoft Azure -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    </a>
+    <!-- Microsoft Office -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    </a>
+    <!-- Jira -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    </a>
+    <!-- Visual Studio Code -->
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>
+  </div>
+</body>
