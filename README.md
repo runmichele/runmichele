@@ -34,20 +34,12 @@ I am seeking challenging opportunities where I can positively impact the world, 
   
  
 <div>
-<!-- Adicione este estilo para alinhar os badges -->
-<style>
-  .badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; /* Espaçamento entre os badges */
-  }
-  .badges a {
-    text-decoration: none;
-  }
-</style>
-
-<!-- Seção dos badges -->
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Badges</title>
   <style>
     .badges {
       display: flex;
@@ -92,3 +84,4 @@ I am seeking challenging opportunities where I can positively impact the world, 
     </a>
   </div>
 </body>
+</html>
