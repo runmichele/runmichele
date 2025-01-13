@@ -11,7 +11,13 @@ My story began outside the tech world, in journalism, where I learned the import
 <br>
 
 <b> Information Security: </b> I have experience in security awareness, training campaigns, and data analysis in phishing initiatives, helping individuals and organizations protect themselves in an increasingly challenging digital landscape.
+
+<br>
+
 <b> Continuous Evolution: </b> Today, my focus is on learning and growing further, exploring the intersection of data analysis and programming, with the goal of creating solutions that combine technology and positive impact.
+
+<br>
+
 <b> Positive Impact: </b> My objective is to make a positive impact on people and the environment through technology, leveraging my skills to solve problems creatively and efficiently.
 I am seeking challenging opportunities where I can positively impact the world, whether by coding or analyzing complex solutions. I believe that technology, paired with a clear purpose, is a powerful tool to transform lives.
 
