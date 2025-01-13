@@ -34,9 +34,6 @@ I am seeking challenging opportunities where I can positively impact the world, 
   
  
 <div>
-  <!--CONTATOS -->
-        <a href="https://https://www.linkedin.com/in/michele-alves-244456165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href = "mailto:michelemmono@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <!-- Pandas -->
         <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas" />
