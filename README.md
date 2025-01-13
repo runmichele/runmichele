@@ -1,4 +1,4 @@
-<h2 align="center"> **Olá, i'am Michele Alves**💻🫠 <br> </h2> 
+<h2 align="right"> **Olá, i'am Michele Alves** <br> </h2> 
 
 <br>
 
