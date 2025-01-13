@@ -15,6 +15,8 @@ My story began outside the tech world, in journalism, where I learned the import
 <b> Positive Impact: </b> My objective is to make a positive impact on people and the environment through technology, leveraging my skills to solve problems creatively and efficiently.
 I am seeking challenging opportunities where I can positively impact the world, whether by coding or analyzing complex solutions. I believe that technology, paired with a clear purpose, is a powerful tool to transform lives.
 
+<b> So far my skills include: </b>
+
   <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runmichele&theme=tokyonight"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=runmichele&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runmichele&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=runmichele&theme=tokyonight&hide_border=false"/>
